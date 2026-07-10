@@ -1,0 +1,58 @@
+UMOWA LICENCYJNA UŻYTKOWNIKA KOŃCOWEGO
+MODDY LAUNCHER – Beta 1.0
+======================================
+
+Przeczytaj uważnie niniejszą Umowę Licencyjną Użytkownika Końcowego ("Umowa")
+przed zainstalowaniem oprogramowania Moddy Launcher ("Oprogramowanie").
+
+Instalując lub używając Oprogramowania, akceptujesz warunki niniejszej Umowy.
+Jeśli nie akceptujesz tych warunków, nie instaluj Oprogramowania.
+
+1. LICENCJA
+   Niniejsza Umowa przyznaje użytkownikowi ograniczone, niewyłączne,
+   nieprzenoszalne prawo do używania Oprogramowania wyłącznie na własny
+   użytek niekomercyjny.
+
+2. OGRANICZENIA
+   Użytkownik nie może:
+   a) sprzedawać, wynajmować ani sublicencjonować Oprogramowania;
+   b) dekompilować, dezasemblować ani odtwarzać kodu źródłowego;
+   c) modyfikować Oprogramowania ani tworzyć dzieł pochodnych;
+   d) usuwać lub zmieniać informacji o prawach autorskich.
+
+3. MINECRAFT
+   Moddy Launcher jest niezależnym projektem i nie jest powiązany
+   z firmą Mojang Studios ani Microsoft Corporation.
+   Minecraft® jest znakiem towarowym firmy Mojang Studios.
+   Do grania w Minecraft wymagana jest legalna kopia gry.
+
+4. WERSJA BETA
+   Niniejsze Oprogramowanie jest w fazie beta testów.
+   Może zawierać błędy i działać niestabilnie.
+   Autor nie gwarantuje pełnej funkcjonalności.
+
+5. ZBIERANIE DANYCH
+   Oprogramowanie może zbierać anonimowe dane techniczne
+   (wersja systemu, typ procesora) wyłącznie w celu diagnostyki błędów.
+   Żadne dane osobowe nie są zbierane bez zgody użytkownika.
+
+6. AKTUALIZACJE
+   Autor zastrzega prawo do wydawania aktualizacji Oprogramowania.
+   Korzystanie z aktualizacji podlega warunkom aktualnej Umowy.
+
+7. WYŁĄCZENIE GWARANCJI
+   OPROGRAMOWANIE JEST DOSTARCZANE "TAKIE JAKIE JEST", BEZ ŻADNYCH
+   GWARANCJI, WYRAŹNYCH ANI DOROZUMIANYCH.
+
+8. OGRANICZENIE ODPOWIEDZIALNOŚCI
+   W ŻADNYM WYPADKU AUTOR NIE PONOSI ODPOWIEDZIALNOŚCI ZA JAKIEKOLWIEK
+   SZKODY WYNIKŁE Z UŻYWANIA LUB NIEMOŻNOŚCI UŻYWANIA OPROGRAMOWANIA.
+
+9. ROZWIĄZANIE UMOWY
+   Niniejsza Umowa obowiązuje do momentu jej rozwiązania.
+   Ulega rozwiązaniu automatycznie w przypadku naruszenia jej warunków.
+
+10. PRAWO WŁAŚCIWE
+    Niniejsza Umowa podlega prawu polskiemu.
+
+Kontakt: support@moddy.app
