@@ -1,0 +1,26 @@
+# Moddy – materiały dla hat_wizard
+newmtl gold
+Kd 1.000 0.788 0.200
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl purple
+Kd 0.416 0.247 0.710
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl purple_dark
+Kd 0.290 0.165 0.522
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl star
+Kd 1.000 0.949 0.478
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+Ke 0.800 0.759 0.383
+

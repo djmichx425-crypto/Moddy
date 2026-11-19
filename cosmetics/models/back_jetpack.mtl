@@ -1,0 +1,40 @@
+# Moddy – materiały dla back_jetpack
+newmtl cyan
+Kd 0.208 0.902 1.000
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+Ke 0.166 0.722 0.800
+
+newmtl dark
+Kd 0.169 0.169 0.188
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl flame
+Kd 1.000 0.541 0.122
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+Ke 0.800 0.433 0.097
+
+newmtl flame2
+Kd 1.000 0.878 0.400
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+Ke 0.800 0.703 0.320
+
+newmtl gray
+Kd 0.553 0.580 0.620
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl orange
+Kd 1.000 0.478 0.184
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+

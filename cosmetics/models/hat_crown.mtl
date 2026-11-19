@@ -1,0 +1,27 @@
+# Moddy – materiały dla hat_crown
+newmtl gold
+Kd 1.000 0.788 0.200
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl gold_dark
+Kd 0.788 0.584 0.102
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl neon
+Kd 0.239 0.949 1.000
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 0.95
+Ke 0.191 0.759 0.800
+
+newmtl red
+Kd 0.898 0.220 0.231
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+Ke 0.718 0.176 0.185
+

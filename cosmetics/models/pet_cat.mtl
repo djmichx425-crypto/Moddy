@@ -1,0 +1,26 @@
+# Moddy – materiały dla pet_cat
+newmtl cat
+Kd 0.910 0.580 0.227
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl cat_dark
+Kd 0.722 0.416 0.122
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl eye_green
+Kd 0.294 0.878 0.416
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+Ke 0.235 0.703 0.333
+
+newmtl pink
+Kd 1.000 0.624 0.710
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+

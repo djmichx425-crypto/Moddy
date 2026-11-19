@@ -1,0 +1,19 @@
+# Moddy – materiały dla pet_penguin
+newmtl black
+Kd 0.078 0.078 0.094
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl orange
+Kd 1.000 0.478 0.184
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl white
+Kd 0.957 0.957 0.957
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+

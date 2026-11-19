@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "categories": {
+    "pet": "Zwierzaki",
+    "hat": "Czapki i nakrycia głowy",
+    "back": "Plecy",
+    "face": "Twarz"
+  },
+  "capes": [
+    {
+      "id": "orange",
+      "name": "Moddy Orange",
+      "emoji": "🟠",
+      "file": "capes/orange.png",
+      "preview": "previews/cape_orange.png"
+    },
+    {
+      "id": "dark",
+      "name": "Moddy Dark",
+      "emoji": "⬛",
+      "file": "capes/dark.png",
+      "preview": "previews/cape_dark.png"
+    },
+    {
+      "id": "wave",
+      "name": "Moddy Wave",
+      "emoji": "🌊",
+      "file": "capes/wave.png",
+      "preview": "previews/cape_wave.png"
+    },
+    {
+      "id": "gold",
+      "name": "Moddy Gold",
+      "emoji": "⭐",
+      "file": "capes/gold.png",
+      "preview": "previews/cape_gold.png"
+    }
+  ],
+  "items": [
+    {
+      "id": "pet_bot",
+      "category": "pet",
+      "name": "Mini Bot",
+      "emoji": "🤖",
+      "desc": "Mały pomarańczowy robot z antenką, który truchta za Tobą.",
+      "model": "models/pet_bot.obj",
+      "material": "models/pet_bot.mtl",
+      "preview": "previews/pet_bot.png",
+      "anchor": "Chodzi obok gracza (podłoga)."
+    },
+    {
+      "id": "pet_jelly",
+      "category": "pet",
+      "name": "Galaretka",
+      "emoji": "🟢",
+      "desc": "Przyjazna, galaretowata kulka z uśmiechem.",
+      "model": "models/pet_jelly.obj",
+      "material": "models/pet_jelly.mtl",
+      "preview": "previews/pet_jelly.png",
+      "anchor": "Skacze obok gracza (podłoga)."
+    },
+    {
+      "id": "pet_dragon",
+      "category": "pet",
+      "name": "Smoczek",
+      "emoji": "🐲",
+      "desc": "Maleńki zielony smok ze skrzydłami i pomarańczowym ogonem.",
+      "model": "models/pet_dragon.obj",
+      "material": "models/pet_dragon.mtl",
+      "preview": "previews/pet_dragon.png",
+      "anchor": "Lata przy ramieniu gracza."
+    },
+    {
+      "id": "pet_ghost",
+      "category": "pet",
+      "name": "Duszek",
+      "emoji": "👻",
+      "desc": "Przezroczysty duszek, który unosi się nad ziemią.",
+      "model": "models/pet_ghost.obj",
+      "material": "models/pet_ghost.mtl",
+      "preview": "previews/pet_ghost.png",
+      "anchor": "Unosi się obok gracza."
+    },
+    {
+      "id": "pet_cat",
+      "category": "pet",
+      "name": "Kotek",
+      "emoji": "🐱",
+      "desc": "Rudy kotek w paski z długim ogonem.",
+      "model": "models/pet_cat.obj",
+      "material": "models/pet_cat.mtl",
+      "preview": "previews/pet_cat.png",
+      "anchor": "Chodzi obok gracza (podłoga)."
+    },
+    {
+      "id": "pet_penguin",
+      "category": "pet",
+      "name": "Pingwin",
+      "emoji": "🐧",
+      "desc": "Pingwinek, który człapie za graczem.",
+      "model": "models/pet_penguin.obj",
+      "material": "models/pet_penguin.mtl",
+      "preview": "previews/pet_penguin.png",
+      "anchor": "Chodzi obok gracza (podłoga)."
+    },
+    {
+      "id": "hat_crown",
+      "category": "hat",
+      "name": "Korona",
+      "emoji": "👑",
+      "desc": "Złota korona z rubinami.",
+      "model": "models/hat_crown.obj",
+      "material": "models/hat_crown.mtl",
+      "preview": "previews/hat_crown.png",
+      "anchor": "Na głowie: y=0 to czubek głowy."
+    },
+    {
+      "id": "hat_wizard",
+      "category": "hat",
+      "name": "Kapelusz czarodzieja",
+      "emoji": "🧙",
+      "desc": "Fioletowy kapelusz z gwiazdkami.",
+      "model": "models/hat_wizard.obj",
+      "material": "models/hat_wizard.mtl",
+      "preview": "previews/hat_wizard.png",
+      "anchor": "Na głowie: y=0 to czubek głowy."
+    },
+    {
+      "id": "hat_cap",
+      "category": "hat",
+      "name": "Czapka Moddy",
+      "emoji": "🧢",
+      "desc": "Pomarańczowa czapka z daszkiem i logo.",
+      "model": "models/hat_cap.obj",
+      "material": "models/hat_cap.mtl",
+      "preview": "previews/hat_cap.png",
+      "anchor": "Na głowie: y=0 to czubek głowy."
+    },
+    {
+      "id": "head_halo",
+      "category": "hat",
+      "name": "Aureola",
+      "emoji": "😇",
+      "desc": "Świecąca aureola unosząca się nad głową.",
+      "model": "models/head_halo.obj",
+      "material": "models/head_halo.mtl",
+      "preview": "previews/head_halo.png",
+      "anchor": "Nad głową: y=0 to czubek głowy."
+    },
+    {
+      "id": "back_wings",
+      "category": "back",
+      "name": "Skrzydła Neon",
+      "emoji": "🪽",
+      "desc": "Świecące, neonowe skrzydła.",
+      "model": "models/back_wings.obj",
+      "material": "models/back_wings.mtl",
+      "preview": "previews/back_wings.png",
+      "anchor": "Na plecach: y=0 środek tułowia, z=0 plecy, skrzydła w stronę −Z."
+    },
+    {
+      "id": "back_jetpack",
+      "category": "back",
+      "name": "Plecak odrzutowy",
+      "emoji": "🚀",
+      "desc": "Plecak z dwoma dyszami i płomieniami.",
+      "model": "models/back_jetpack.obj",
+      "material": "models/back_jetpack.mtl",
+      "preview": "previews/back_jetpack.png",
+      "anchor": "Na plecach: y=0 środek tułowia, z=0 plecy."
+    },
+    {
+      "id": "face_shades",
+      "category": "face",
+      "name": "Okulary przeciwsłoneczne",
+      "emoji": "🕶",
+      "desc": "Ciemne okulary dla każdego.",
+      "model": "models/face_shades.obj",
+      "material": "models/face_shades.mtl",
+      "preview": "previews/face_shades.png",
+      "anchor": "Na twarzy: y=0 linia oczu, z=+4 przód głowy."
+    }
+  ]
+}

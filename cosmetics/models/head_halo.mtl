@@ -1,0 +1,8 @@
+# Moddy – materiały dla head_halo
+newmtl halo
+Kd 1.000 0.949 0.659
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 0.95
+Ke 0.800 0.759 0.527
+
